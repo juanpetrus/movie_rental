@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-07-11 09:37:08
+  movie: one
+  user: one
+
+two:
+  date: 2019-07-11 09:37:08
+  movie: two
+  user: two
